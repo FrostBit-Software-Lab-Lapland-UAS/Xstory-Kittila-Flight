@@ -1,0 +1,50 @@
+ Sound files for the Pratt & Whitney R-1830 (Double Wasp) turbo-supercharged compound radial engine.
+
+ I compiled these sounds for use on the B-24 Liberator. But, they will work on any aircraft that uses the R-1830 radial engine.
+
+ Common aircraft you would find these engines were;
+
+Bristol Beaufort (Australian-built production)
+Bloch MB.176
+Burnelli CBY-3
+CAC Boomerang
+CAC Woomera
+Consolidated B-24 Liberator
+Consolidated PBY Catalina
+Consolidated PB2Y Coronado
+Consolidated PB4Y Privateer
+Curtiss P-36 Hawk
+Douglas C-47 Skytrain
+Douglas DC-3
+Douglas DB-7 (early variants only)
+Douglas TBD Devastator
+FFVS J 22
+Fokker D.XXI-4
+Grumman F4F Wildcat
+Lioré et Olivier LeO 453
+Lisunov Li-3 - A Yugoslav version of the Soviet Lisunov Li-2
+Martin Maryland
+Republic P-43 Lancer
+Saab 17
+Saab 18
+Short Sunderland V
+Seversky P-35
+Vickers Wellington IV
+VL Myrsky
+Vultee P-66 Vanguard
+
+ These sound files are freeware files that I had laying around. I made each engine an individual so, if you decide to power each engine individually, there is no aliasing or any anomoly that will detract from the glorious sound of a 14 cylinder radial thumping away! You can even hear the change of the prop pitch on each engine while in flight.
+
+ I did this by going into the config file and manipulated the settings for each file. 
+
+ I want you to compare these sounds to the youtube video of the B-24 Liberator "WITCHCRAFT". You will see that these sounds are pretty close.
+
+TO INSTALL
+
+ Just open the zip file attached and copy and paste "sound" to whatever aircraft you wish. (go to; C/PROGRAM FILES/MICROSOFT GAMES/FS2004/AIRCRAFT...)
+
+Enjoy and happy landing.
+
+***********PLEASE NOTE, I DID NOT CREATE THESE FILES. I JUST COMPILED THEM******** 
+
+ 
